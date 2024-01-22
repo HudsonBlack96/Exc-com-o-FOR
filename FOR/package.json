@@ -1,0 +1,18 @@
+{
+  "name": "for",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ExcFOR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.0",
+    "chromedriver": "^120.0.2",
+    "selenium-webdriver": "^4.16.0"
+  },
+  "type": "module"
+}
